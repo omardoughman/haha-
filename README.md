@@ -269,3 +269,4 @@ Any amount you can donate, whether once or monthly, to help us reach our goal wo
 Alamofire is released under the MIT license. [See LICENSE](https://github.com/Alamofire/Alamofire/blob/master/LICENSE) for details.
 
 hi im omar the owner of this project  warning non of this repo can be in any public form or leacked from a user 
+reqwired homebrew ruby cocoapods xcode swift macos
